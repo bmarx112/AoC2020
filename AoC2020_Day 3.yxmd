@@ -1,0 +1,1291 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2020.4">
+  <Nodes>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="102" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="323" />
+          <Fields>
+            <Field name="Layer" />
+          </Fields>
+          <Data>
+            <r>
+              <c>....#...#####..##.#..##..#....#</c>
+            </r>
+            <r>
+              <c>..##.#.#.........#.#......##...</c>
+            </r>
+            <r>
+              <c>#.#.#.##.##...#.......#...#..#.</c>
+            </r>
+            <r>
+              <c>..##.............#.#.##.....#..</c>
+            </r>
+            <r>
+              <c>##......#.............#....#...</c>
+            </r>
+            <r>
+              <c>.....##..#.....##.#.......##..#</c>
+            </r>
+            <r>
+              <c>.##.....#........##...##.#....#</c>
+            </r>
+            <r>
+              <c>.##......#.#......#.....#..##.#</c>
+            </r>
+            <r>
+              <c>##....#..#...#...#...##.#...##.</c>
+            </r>
+            <r>
+              <c>##........##.#...##......#.#.#.</c>
+            </r>
+            <r>
+              <c>..#.#........#...##.....#.....#</c>
+            </r>
+            <r>
+              <c>..#.......####.#....#..#####...</c>
+            </r>
+            <r>
+              <c>.##..#..#..##.#.....###.#..#...</c>
+            </r>
+            <r>
+              <c>......###..##.....#.#.#..###.#.</c>
+            </r>
+            <r>
+              <c>..#.#...#..##.....#....#.#.....</c>
+            </r>
+            <r>
+              <c>.....#.#...#.###.#..#..........</c>
+            </r>
+            <r>
+              <c>##.....#...#.#....#..#.#.......</c>
+            </r>
+            <r>
+              <c>..#...#...#.........##......#..</c>
+            </r>
+            <r>
+              <c>......#.#...#...#..#...##.#...#</c>
+            </r>
+            <r>
+              <c>....#.................##.##....</c>
+            </r>
+            <r>
+              <c>...#......#.............#....##</c>
+            </r>
+            <r>
+              <c>##..#..#..........#...##.#.#...</c>
+            </r>
+            <r>
+              <c>....#...##....#..#.#...........</c>
+            </r>
+            <r>
+              <c>##.#.#.#...#....#........#..#.#</c>
+            </r>
+            <r>
+              <c>...###..........#...#...#..##.#</c>
+            </r>
+            <r>
+              <c>..##.......###.#......##.##....</c>
+            </r>
+            <r>
+              <c>...........#.#....#.....#.#...#</c>
+            </r>
+            <r>
+              <c>..#......##.#...##.#.#......#.#</c>
+            </r>
+            <r>
+              <c>..........#.#....#.#..#....#...</c>
+            </r>
+            <r>
+              <c>##..##...##.......#.#....#.#.##</c>
+            </r>
+            <r>
+              <c>.##..#.#..#...........#.#...#.#</c>
+            </r>
+            <r>
+              <c>#......##......#....####.#....#</c>
+            </r>
+            <r>
+              <c>..###......##...#...#.#.......#</c>
+            </r>
+            <r>
+              <c>.#.##.##....##..#..##...#......</c>
+            </r>
+            <r>
+              <c>.#....#..#........#..#.##.#.#..</c>
+            </r>
+            <r>
+              <c>..#.........#.#.###....###.#...</c>
+            </r>
+            <r>
+              <c>..#..#.#.#..#..#.##.##...####..</c>
+            </r>
+            <r>
+              <c>#..#..#......#..#.#....#.#.#.##</c>
+            </r>
+            <r>
+              <c>..#.........#...#..#.#.#..#...#</c>
+            </r>
+            <r>
+              <c>#..#......###.....##....##.....</c>
+            </r>
+            <r>
+              <c>#..#.....#.#.#.##.....##...#.#.</c>
+            </r>
+            <r>
+              <c>##..#.#...#.........#.#........</c>
+            </r>
+            <r>
+              <c>#....#.......#.....#..#..#.#...</c>
+            </r>
+            <r>
+              <c>...###.##.###.###.#####..#...#.</c>
+            </r>
+            <r>
+              <c>.....#..#.#..##...............#</c>
+            </r>
+            <r>
+              <c>..#.....###.###.#.....#.#....##</c>
+            </r>
+            <r>
+              <c>###.#.........#..#.#.#..#.#..#.</c>
+            </r>
+            <r>
+              <c>.##.........#..#..##....#.#...#</c>
+            </r>
+            <r>
+              <c>.#...#........#...#.....#....#.</c>
+            </r>
+            <r>
+              <c>####..........###....#.#.#....#</c>
+            </r>
+            <r>
+              <c>....##..###....#....#.#...#....</c>
+            </r>
+            <r>
+              <c>..............##......##..#.###</c>
+            </r>
+            <r>
+              <c>.#...........###.#.#....#......</c>
+            </r>
+            <r>
+              <c>###.#..#..#...#.........##.....</c>
+            </r>
+            <r>
+              <c>..#.....##...#.#.....##...#.##.</c>
+            </r>
+            <r>
+              <c>.###.#........#..#.#...#.#..##.</c>
+            </r>
+            <r>
+              <c>.......##....##.........##.#..#</c>
+            </r>
+            <r>
+              <c>#....#...#...##...#.#..#..#..##</c>
+            </r>
+            <r>
+              <c>...#...##..#...#...#.#....#.#.#</c>
+            </r>
+            <r>
+              <c>#.#......#.#...##......#.#...##</c>
+            </r>
+            <r>
+              <c>.#.###..#.###.#.....#.##.##.#.#</c>
+            </r>
+            <r>
+              <c>#...#............#...#.##..##..</c>
+            </r>
+            <r>
+              <c>....#..###.......#.....##....#.</c>
+            </r>
+            <r>
+              <c>.#####..#.....#.....#...#.....#</c>
+            </r>
+            <r>
+              <c>..##..#..###.......##.#........</c>
+            </r>
+            <r>
+              <c>.#...##.##.....#.##...##...#..#</c>
+            </r>
+            <r>
+              <c>......###...#....#....#........</c>
+            </r>
+            <r>
+              <c>....#...#.#....#...#.#.#......#</c>
+            </r>
+            <r>
+              <c>....#..##...##.#..#....###.....</c>
+            </r>
+            <r>
+              <c>...#...#..#.#...#....#.#..#####</c>
+            </r>
+            <r>
+              <c>####....#.....#.........#.#....</c>
+            </r>
+            <r>
+              <c>...###.#.#..#.#..##............</c>
+            </r>
+            <r>
+              <c>.##..#####..#...#..#..#.......#</c>
+            </r>
+            <r>
+              <c>.###......#.#.#..#....#.....#..</c>
+            </r>
+            <r>
+              <c>#....##.##..#.#...............#</c>
+            </r>
+            <r>
+              <c>...#.#..#........#......#....#.</c>
+            </r>
+            <r>
+              <c>#.....#....###....#..#.#.#.....</c>
+            </r>
+            <r>
+              <c>.#..#....#...#.#.....##....#...</c>
+            </r>
+            <r>
+              <c>..#.##.#.##.#..#.##.#.....#.#..</c>
+            </r>
+            <r>
+              <c>.......#.......###..###..#...#.</c>
+            </r>
+            <r>
+              <c>.#.......#..#........#.#.......</c>
+            </r>
+            <r>
+              <c>.#.#...#.....#.##..##.....#....</c>
+            </r>
+            <r>
+              <c>#.......##....#......#.....##..</c>
+            </r>
+            <r>
+              <c>.#.....#...##...#..##.....#....</c>
+            </r>
+            <r>
+              <c>....#..#.#.......#.#.#.........</c>
+            </r>
+            <r>
+              <c>..#....#....##.##..#..##.##.#..</c>
+            </r>
+            <r>
+              <c>.#...#....##...#........#....#.</c>
+            </r>
+            <r>
+              <c>#.#......#...#....#...........#</c>
+            </r>
+            <r>
+              <c>.#....#..#..###.#.....#..#.....</c>
+            </r>
+            <r>
+              <c>..#..................#.....#...</c>
+            </r>
+            <r>
+              <c>..#...###..#..####.#..#.#.#.#..</c>
+            </r>
+            <r>
+              <c>...#........##...##..##..#....#</c>
+            </r>
+            <r>
+              <c>...#.....#........##..#.....#.#</c>
+            </r>
+            <r>
+              <c>#....#.....##.##......#...##...</c>
+            </r>
+            <r>
+              <c>...#####....#..##..##...#.#....</c>
+            </r>
+            <r>
+              <c>###.........#.#..#..#..##.#...#</c>
+            </r>
+            <r>
+              <c>##...#..##...#.##.#........#...</c>
+            </r>
+            <r>
+              <c>.#....#.#...#..#...#..#.#......</c>
+            </r>
+            <r>
+              <c>.#......##.#...#...#..#....#...</c>
+            </r>
+            <r>
+              <c>#..#.#.#......##.##.####..#....</c>
+            </r>
+            <r>
+              <c>.#...#.#.##...##.#...#...#.....</c>
+            </r>
+            <r>
+              <c>####.#.........#...##..##....##</c>
+            </r>
+            <r>
+              <c>.....###........###.##...#.#...</c>
+            </r>
+            <r>
+              <c>.##.....#.....#....##.....##...</c>
+            </r>
+            <r>
+              <c>.#.#...#####....##...##.....#..</c>
+            </r>
+            <r>
+              <c>....###..........#......##..#.#</c>
+            </r>
+            <r>
+              <c>..#.....#....#..#...#.....##..#</c>
+            </r>
+            <r>
+              <c>...##.##.#.######....#.#....##.</c>
+            </r>
+            <r>
+              <c>...#.#.#...#..#....##.........#</c>
+            </r>
+            <r>
+              <c>.#.#...##...#....#.#....##.....</c>
+            </r>
+            <r>
+              <c>...#..#.....#.....#.##.....#...</c>
+            </r>
+            <r>
+              <c>.#.#.#.....#.##.#....#.#....##.</c>
+            </r>
+            <r>
+              <c>#...#......###...#..###...#....</c>
+            </r>
+            <r>
+              <c>...##.#.#..#........##.......#.</c>
+            </r>
+            <r>
+              <c>.####.####......#........#.....</c>
+            </r>
+            <r>
+              <c>....#..#####....#......####....</c>
+            </r>
+            <r>
+              <c>#...##.#..#..#####.#...#......#</c>
+            </r>
+            <r>
+              <c>#.#....#..#.........###........</c>
+            </r>
+            <r>
+              <c>.##.........#....#......#.#....</c>
+            </r>
+            <r>
+              <c>...###.........####.#........##</c>
+            </r>
+            <r>
+              <c>..#..#........#.#..##......#..#</c>
+            </r>
+            <r>
+              <c>.##..#....#...##.####.#...#....</c>
+            </r>
+            <r>
+              <c>......#.......#..#..#.#.##.#...</c>
+            </r>
+            <r>
+              <c>.###....#.#...#.#.......##..#.#</c>
+            </r>
+            <r>
+              <c>#...#....#............#####....</c>
+            </r>
+            <r>
+              <c>...#.##......#####..#........#.</c>
+            </r>
+            <r>
+              <c>..#...##.....#...#..#.#........</c>
+            </r>
+            <r>
+              <c>...#.#...#...##...#..#....#....</c>
+            </r>
+            <r>
+              <c>..#..##.....#....#.#.###.......</c>
+            </r>
+            <r>
+              <c>.......##..#...#.............##</c>
+            </r>
+            <r>
+              <c>.....#.....#..##.##.....#......</c>
+            </r>
+            <r>
+              <c>.....##...#......#..##....#.###</c>
+            </r>
+            <r>
+              <c>.#...#.#.#.#.##.....##..###..#.</c>
+            </r>
+            <r>
+              <c>....##..........#.....###......</c>
+            </r>
+            <r>
+              <c>....#...#.#.#..#.......#....#..</c>
+            </r>
+            <r>
+              <c>..###...#...........##..###....</c>
+            </r>
+            <r>
+              <c>...#.##.......#....#....#.#....</c>
+            </r>
+            <r>
+              <c>##...#..##..#.##..........##..#</c>
+            </r>
+            <r>
+              <c>.##.....#..#......##..####.#.##</c>
+            </r>
+            <r>
+              <c>....##..#.#.###......#..#...#..</c>
+            </r>
+            <r>
+              <c>####..#.#....#...#....###.#.#..</c>
+            </r>
+            <r>
+              <c>###......#...##.##..#.##..#..#.</c>
+            </r>
+            <r>
+              <c>..#.#..#.#.#.....#...#..#.####.</c>
+            </r>
+            <r>
+              <c>.###.#...##...##....##......#.#</c>
+            </r>
+            <r>
+              <c>..#............#.##..#....#..#.</c>
+            </r>
+            <r>
+              <c>###.......#......###..#........</c>
+            </r>
+            <r>
+              <c>....##......###.....#.#..###...</c>
+            </r>
+            <r>
+              <c>..#...##...#......#..#.........</c>
+            </r>
+            <r>
+              <c>#..####.#....#.....###....#.#..</c>
+            </r>
+            <r>
+              <c>.#.#.#.......##....###.........</c>
+            </r>
+            <r>
+              <c>.......#.##.#####....#.#...####</c>
+            </r>
+            <r>
+              <c>.#...#....#....#.###..#.....#..</c>
+            </r>
+            <r>
+              <c>.###.#.#.###.###.#..####.##.#..</c>
+            </r>
+            <r>
+              <c>....#.........#.#.......##.....</c>
+            </r>
+            <r>
+              <c>#..#..#.#...........#.#.##..#.#</c>
+            </r>
+            <r>
+              <c>.#.....#..#...#.....#.##......#</c>
+            </r>
+            <r>
+              <c>..###.#............#.....####..</c>
+            </r>
+            <r>
+              <c>#.....##..##...#....####....#..</c>
+            </r>
+            <r>
+              <c>...#.....#..................#..</c>
+            </r>
+            <r>
+              <c>....#.###.#..#..#..##..#..##...</c>
+            </r>
+            <r>
+              <c>...##.#........#......#...##...</c>
+            </r>
+            <r>
+              <c>#................##....#...#...</c>
+            </r>
+            <r>
+              <c>..##......##.#.##..#....#.....#</c>
+            </r>
+            <r>
+              <c>.#..#.....#..........##.#.#....</c>
+            </r>
+            <r>
+              <c>.....#...####....#..#......#...</c>
+            </r>
+            <r>
+              <c>..#......###.#.#.#.#.......#..#</c>
+            </r>
+            <r>
+              <c>.##......#.......#....###.#....</c>
+            </r>
+            <r>
+              <c>#..#.#.#..#...#.#.##..##..#....</c>
+            </r>
+            <r>
+              <c>....#...##..#.#......#.##...#..</c>
+            </r>
+            <r>
+              <c>...###...#.##..#...#....#......</c>
+            </r>
+            <r>
+              <c>##......#.#...#.#.#.........#..</c>
+            </r>
+            <r>
+              <c>..#..........#...###.#.##....#.</c>
+            </r>
+            <r>
+              <c>...##.....#.....#...###..#.....</c>
+            </r>
+            <r>
+              <c>..####.#.....#.#.....#..#.#....</c>
+            </r>
+            <r>
+              <c>.#.....##...##.##.#.....#.####.</c>
+            </r>
+            <r>
+              <c>.......#.....#...##..........#.</c>
+            </r>
+            <r>
+              <c>.#...#.#....#####....###.#..#.#</c>
+            </r>
+            <r>
+              <c>.##.##....##...##.#.....#......</c>
+            </r>
+            <r>
+              <c>#......#.##..#..##.#.#.......#.</c>
+            </r>
+            <r>
+              <c>.#..#....###..#........##...#..</c>
+            </r>
+            <r>
+              <c>..#......##.......###..##...#..</c>
+            </r>
+            <r>
+              <c>.#..........#.#.......##.....#.</c>
+            </r>
+            <r>
+              <c>....##.....##.#.#.##........##.</c>
+            </r>
+            <r>
+              <c>..#.#..###..#..##...#.##...#...</c>
+            </r>
+            <r>
+              <c>.......#.....#..#...#...#.....#</c>
+            </r>
+            <r>
+              <c>##.#...#.#.#.##........#......#</c>
+            </r>
+            <r>
+              <c>..###.....##..#....#.......##..</c>
+            </r>
+            <r>
+              <c>#####..####...#.#..##.#...#..#.</c>
+            </r>
+            <r>
+              <c>#...####....#........#....#....</c>
+            </r>
+            <r>
+              <c>.#.#.#..#...##....#.......#.#..</c>
+            </r>
+            <r>
+              <c>...#....##..##..#..#..#####.###</c>
+            </r>
+            <r>
+              <c>...#......#.#..#......#...####.</c>
+            </r>
+            <r>
+              <c>.##.....##.##.#.####.#..##...#.</c>
+            </r>
+            <r>
+              <c>....#..#..##..##....#....#...##</c>
+            </r>
+            <r>
+              <c>##.###........#...##....#.....#</c>
+            </r>
+            <r>
+              <c>..#.#.#.......#....#..#....#...</c>
+            </r>
+            <r>
+              <c>......##.....##....#...#.....#.</c>
+            </r>
+            <r>
+              <c>#.#..#.#.......#....#.#.#......</c>
+            </r>
+            <r>
+              <c>.....###..#...#.....#..##..#...</c>
+            </r>
+            <r>
+              <c>......###.....#.#.#...#...##..#</c>
+            </r>
+            <r>
+              <c>.#..#.#....##...#...#........#.</c>
+            </r>
+            <r>
+              <c>#..###.#...####.#...#..........</c>
+            </r>
+            <r>
+              <c>.#.##.#..#..##..#..###..##...#.</c>
+            </r>
+            <r>
+              <c>.......#.#..........#.........#</c>
+            </r>
+            <r>
+              <c>#......###..##..#....###.......</c>
+            </r>
+            <r>
+              <c>..#............#.#........#...#</c>
+            </r>
+            <r>
+              <c>..##.#.............#......#..##</c>
+            </r>
+            <r>
+              <c>.#....#..#.#..#....###..#...#..</c>
+            </r>
+            <r>
+              <c>....##....#..##...###....#....#</c>
+            </r>
+            <r>
+              <c>.#....###.............#........</c>
+            </r>
+            <r>
+              <c>#..#...#..#....#.##.#.....##...</c>
+            </r>
+            <r>
+              <c>...........#.....#....#....#...</c>
+            </r>
+            <r>
+              <c>.##.##.#...#....##......##..##.</c>
+            </r>
+            <r>
+              <c>......#.#.##.#..##........#...#</c>
+            </r>
+            <r>
+              <c>....##...##...#...#...#.#......</c>
+            </r>
+            <r>
+              <c>.#...#....#...#......#.#...#..#</c>
+            </r>
+            <r>
+              <c>........##.....#.#..#...##..##.</c>
+            </r>
+            <r>
+              <c>##...#.....#.....####...#..#...</c>
+            </r>
+            <r>
+              <c>.#.#..##.##......#...#.#...#...</c>
+            </r>
+            <r>
+              <c>##...##.#......#....#.######.#.</c>
+            </r>
+            <r>
+              <c>##.....####.###......#.##.#....</c>
+            </r>
+            <r>
+              <c>.#.##....##........#...#..####.</c>
+            </r>
+            <r>
+              <c>.......#..#....##...#.#...#..#.</c>
+            </r>
+            <r>
+              <c>...##..........#..#........#..#</c>
+            </r>
+            <r>
+              <c>.##.....#...#...#.##.###.......</c>
+            </r>
+            <r>
+              <c>.##....#...#.#..#.....#...#....</c>
+            </r>
+            <r>
+              <c>..#...#.....#.####.#.........#.</c>
+            </r>
+            <r>
+              <c>#...#.##...#.#..#.#..#.###.#..#</c>
+            </r>
+            <r>
+              <c>.##..#.#.##.........####....###</c>
+            </r>
+            <r>
+              <c>.#..##........#..#.......#.....</c>
+            </r>
+            <r>
+              <c>......#.#####.#.........#.#...#</c>
+            </r>
+            <r>
+              <c>......#....#.#####...........#.</c>
+            </r>
+            <r>
+              <c>..##....##..#.#..#....#......##</c>
+            </r>
+            <r>
+              <c>#.#......#.##.#.##....#....#.#.</c>
+            </r>
+            <r>
+              <c>..#..##.#...#.......##.........</c>
+            </r>
+            <r>
+              <c>.....##.#...#..........#.......</c>
+            </r>
+            <r>
+              <c>...#........#..#...#.....##.###</c>
+            </r>
+            <r>
+              <c>....##.........#...#.#.....#...</c>
+            </r>
+            <r>
+              <c>.......#.#....#...#.......#...#</c>
+            </r>
+            <r>
+              <c>.#..#...##....#..#...........#.</c>
+            </r>
+            <r>
+              <c>.#....##.##.#..#..####.#.#.....</c>
+            </r>
+            <r>
+              <c>.##........#.....#..#......##..</c>
+            </r>
+            <r>
+              <c>.#..##......#......#..##..#....</c>
+            </r>
+            <r>
+              <c>###.....##.......#..##.#.......</c>
+            </r>
+            <r>
+              <c>.....##......#.#...##...##.....</c>
+            </r>
+            <r>
+              <c>.##....##..#..#####...#...#.##.</c>
+            </r>
+            <r>
+              <c>##...##.#....##.#.#.#....##....</c>
+            </r>
+            <r>
+              <c>.#.....#...#......#......##....</c>
+            </r>
+            <r>
+              <c>##.#............#...#....#.....</c>
+            </r>
+            <r>
+              <c>#..#.....#.....##.##.##..#..##.</c>
+            </r>
+            <r>
+              <c>......#..............#..#...#.#</c>
+            </r>
+            <r>
+              <c>....#.#....##......#..#...#....</c>
+            </r>
+            <r>
+              <c>.#...#..#...#......#..##....#.#</c>
+            </r>
+            <r>
+              <c>.....#......#..##...#.#....#...</c>
+            </r>
+            <r>
+              <c>#...............#.##..#......#.</c>
+            </r>
+            <r>
+              <c>.....#..##.#..#.#...###.....#..</c>
+            </r>
+            <r>
+              <c>...#..#..#...#....#..#..##.#...</c>
+            </r>
+            <r>
+              <c>.#...#...#..#......##...#......</c>
+            </r>
+            <r>
+              <c>....###............#.#.#....#..</c>
+            </r>
+            <r>
+              <c>#.#...#..#..#.#....#........#..</c>
+            </r>
+            <r>
+              <c>....#.#.#..#..#....#..#...##.#.</c>
+            </r>
+            <r>
+              <c>.#....#.#...#....#......#.#...#</c>
+            </r>
+            <r>
+              <c>##..#.#.#..#.....#...###....#.#</c>
+            </r>
+            <r>
+              <c>.##.....#.#...#..........#..#.#</c>
+            </r>
+            <r>
+              <c>#....#......#....#.#.#...#.....</c>
+            </r>
+            <r>
+              <c>#.#.....#.###.......#..#..#.#..</c>
+            </r>
+            <r>
+              <c>#.....##..#.###...#...##...#.##</c>
+            </r>
+            <r>
+              <c>.#.##....#.#.....##......###...</c>
+            </r>
+            <r>
+              <c>.#.......##................#...</c>
+            </r>
+            <r>
+              <c>.........#........####......#..</c>
+            </r>
+            <r>
+              <c>...##.###..#.....#.#.....##.#..</c>
+            </r>
+            <r>
+              <c>..#....#.#.#.##..........#.....</c>
+            </r>
+            <r>
+              <c>#..##.....#.............##.....</c>
+            </r>
+            <r>
+              <c>.##...#..#.......#.......#..#..</c>
+            </r>
+            <r>
+              <c>...#.................#......##.</c>
+            </r>
+            <r>
+              <c>....#....#.....#..###.#....###.</c>
+            </r>
+            <r>
+              <c>..#.#..#...#..#.....###....#.#.</c>
+            </r>
+            <r>
+              <c>.....###...#....#....#.#.##..##</c>
+            </r>
+            <r>
+              <c>...#...#.........####........#.</c>
+            </r>
+            <r>
+              <c>.......#..##.........#.........</c>
+            </r>
+            <r>
+              <c>.#......##.....#.#####...##....</c>
+            </r>
+            <r>
+              <c>....#.###...#.#....##..#......#</c>
+            </r>
+            <r>
+              <c>.##..#....#.#....#..#.###.....#</c>
+            </r>
+            <r>
+              <c>..#...#.#...#.##.....#.#....##.</c>
+            </r>
+            <r>
+              <c>#.#.#.#.....##...#.#..##..#....</c>
+            </r>
+            <r>
+              <c>.#............#.#.#..#...#...#.</c>
+            </r>
+            <r>
+              <c>...##.#..#..####.#.###..##.....</c>
+            </r>
+            <r>
+              <c>.##.....#.......#..##.#...##.#.</c>
+            </r>
+            <r>
+              <c>#.#...#..#.##...##...####..#..#</c>
+            </r>
+            <r>
+              <c>...##.......#.#.#.#.#.#...#..##</c>
+            </r>
+            <r>
+              <c>...#.#.##..##..............###.</c>
+            </r>
+            <r>
+              <c>.....#...#........#...#......#.</c>
+            </r>
+            <r>
+              <c>..#..#..##....#..##.#.....#....</c>
+            </r>
+            <r>
+              <c>#.....##........#.........##.#.</c>
+            </r>
+            <r>
+              <c>###..#....#.##..##.............</c>
+            </r>
+            <r>
+              <c>.#..#...#.#......#..#..##.....#</c>
+            </r>
+            <r>
+              <c>...#.#.#............##........#</c>
+            </r>
+            <r>
+              <c>..#.#....#..#....##....#...##.#</c>
+            </r>
+            <r>
+              <c>...##...#...#..........##.#####</c>
+            </r>
+            <r>
+              <c>....#..#.#.......##....#.#.###.</c>
+            </r>
+            <r>
+              <c>##..#..#..#...###.#.....#......</c>
+            </r>
+            <r>
+              <c>....###.#.#.#.##..##.#...#.....</c>
+            </r>
+            <r>
+              <c>.....####..#.#..#.#......#.#.#.</c>
+            </r>
+            <r>
+              <c>#.....#...#..#.#.........#..#..</c>
+            </r>
+            <r>
+              <c>.##....#.#.####......##..#..##.</c>
+            </r>
+            <r>
+              <c>......#.##.#.#..#..#....#.#....</c>
+            </r>
+            <r>
+              <c>.#..#...#...#...#..#.....#.....</c>
+            </r>
+            <r>
+              <c>..##.#..............#......#...</c>
+            </r>
+            <r>
+              <c>.....###.##.......#.....#..#...</c>
+            </r>
+            <r>
+              <c>..#.#..#..#.......#...##.##..#.</c>
+            </r>
+            <r>
+              <c>##.###......#......#.#..#..##..</c>
+            </r>
+            <r>
+              <c>..##.....#..#..#......#..#.....</c>
+            </r>
+            <r>
+              <c>...##.......#.#..#.........#.#.</c>
+            </r>
+            <r>
+              <c>......##.##.#.......#..#.#.....</c>
+            </r>
+            <r>
+              <c>#......#........##..#.......#.#</c>
+            </r>
+            <r>
+              <c>###....#...#...#.#...#..#..#...</c>
+            </r>
+            <r>
+              <c>#..###....#....####..#...#.....</c>
+            </r>
+            <r>
+              <c>....##..#.##.#....#..##...#.#..</c>
+            </r>
+            <r>
+              <c>#.##..#....##..#...#..#.#.#..#.</c>
+            </r>
+            <r>
+              <c>#.........#.....#...#.......#..</c>
+            </r>
+            <r>
+              <c>...#.....#.#.....#........##...</c>
+            </r>
+            <r>
+              <c>..#.##..#......#...#.....##.#..</c>
+            </r>
+            <r>
+              <c>...###....#.....#...#..#.##..#.</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="390" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="([RecordID]*[Right])/[Down]+1" field="Position" size="8" type="Double" />
+            <FormulaField expression="switch(Mod([Position],Length([Layer])),Mod([Position],Length([Layer])),0,Length([Layer]))" field="Mod" size="8" type="Double" />
+            <FormulaField expression="Substring([Layer],[Mod]-1,1)" field="Item" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Position = ([RecordID]*[Right])/[Down]+1
+Mod = switch(Mod([Position],Length([Lay...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="198" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>0</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="594" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Scenario" action="GroupBy" rename="Scenario" />
+            <SummarizeField field="Item" action="GroupBy" rename="Item" />
+            <SummarizeField field="Item" action="Count" rename="Count" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="102" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="5" />
+          <Fields>
+            <Field name="Right" />
+            <Field name="Down" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>1</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>1</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>1</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>1</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>2</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="294" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="198" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>Scenario</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="498" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>Mod([RecordID],[Down]) = 0</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Mod([RecordID],[Down]) = 0</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="678" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>Item</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2020-12-03 09:56:52</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>#</Operand>
+              <StartDate>2020-12-03 09:56:52</StartDate>
+              <EndDate>2020-12-03 09:56:52</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Item] = "#"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+        <Position x="786" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="False" />
+          <UpdateField_Name>Scenario</UpdateField_Name>
+          <CreateField_Name>Running Product</CreateField_Name>
+          <CreateField_Type>Double</CreateField_Type>
+          <CreateField_Size>8</CreateField_Size>
+          <OtherRows>Empty</OtherRows>
+          <NumRows value="1" />
+          <Expression>Max(1,[Row-1:Running Product])*[Count]</Expression>
+          <GroupByFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Max(1,[Row-1:Running Product])*[Count]</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="8" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="8" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="True" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="True" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>AoC2020_Day 3</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
